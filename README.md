@@ -2,7 +2,7 @@
 
 ### what is PLY compiler ?
 
-PLY is a parsing tool written purely in Python. It is basically a re-implementation of Lex and Yacc originally in C-language. It was written by David M. Beazley.* [dabeaz](https://github.com/dabeaz/ply)
+PLY is a parsing tool written purely in Python. It is basically a re-implementation of Lex and Yacc originally in C-language. It was written by [David M. Beazley](https://github.com/dabeaz/ply).
 Unlike Lex and Yacc in C which uses LALR parsing technique, PLY uses LR parsing which can incorporate large grammars easily. PLY also has extensive debugging and error reporting facilities.
 
 ## Prerequisites
